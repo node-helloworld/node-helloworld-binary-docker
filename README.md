@@ -11,6 +11,12 @@ $ curl -LO https://raw.githubusercontent.com/node-helloworld/node-helloworld-doc
 $ docker-compose up
 ```
 
+# Supported tags and respective `Dockerfile` links
+
+* [`1`, `1.0.13-r49`, `latest` (1/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/1.0.13-r49/1/Dockerfile)
+
+Subscribe to project updates by watching the [bitnami/canary-binary GitHub repo](https://github.com/bitnami/bitnami-docker-canary-binary).
+
 # Prerequisites
 
 To run this application you need Docker Engine 1.10.0. Docker Compose is recomended with a version 1.6.0 or later.
