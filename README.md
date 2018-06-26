@@ -13,13 +13,13 @@ $ docker-compose up
 
 # Supported tags and respective `Dockerfile` links
 
-* [`1`, `1.0.13-r59`, `latest` (1/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/1.0.13-r59/1/Dockerfile)
+* [`1`, `1.0.13-r60`, `latest` (1/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/1.0.13-r60/1/Dockerfile)
 
 Subscribe to project updates by watching the [bitnami/canary-binary GitHub repo](https://github.com/bitnami/bitnami-docker-canary-binary).
 
 # Supported tags and respective `Dockerfile` links
 
-* [`1`, `1.0.13-r59`, `latest` (1/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/1.0.13-r59/1/Dockerfile)
+* [`1`, `1.0.13-r60`, `latest` (1/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/1.0.13-r60/1/Dockerfile)
 
 Subscribe to project updates by watching the [bitnami/canary-binary GitHub repo](https://github.com/bitnami/bitnami-docker-canary-binary).
 
