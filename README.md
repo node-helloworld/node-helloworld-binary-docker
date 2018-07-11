@@ -13,15 +13,15 @@ $ docker-compose up
 
 # Supported tags and respective `Dockerfile` links
 
-* [`1-debian-8`, `1.0.13-debian-8-r71`, `1`, `1.0.13`, `1.0.13-r71`, `latest` (1/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/1.0.13-debian-8-r71/1/Dockerfile)
-* [`1-debian-9`, `0.0.0-debian-9-r0` (1/debian-9/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/0.0.0-debian-9-r0/1/debian-9/Dockerfile)
+* [`1-debian-8`, `1.0.13-debian-8-r72` (1/debian-8/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/1.0.13-debian-8-r72/1/debian-8/Dockerfile)
+* [`1-debian-9`, `0.0.0-debian-9-r0`, `1`, `0.0.0`, `0.0.0-r0`, `latest` (1/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/0.0.0-debian-9-r0/1/Dockerfile)
 
 Subscribe to project updates by watching the [bitnami/canary-binary GitHub repo](https://github.com/bitnami/bitnami-docker-canary-binary).
 
 # Supported tags and respective `Dockerfile` links
 
-* [`1-debian-8`, `1.0.13-debian-8-r71`, `1`, `1.0.13`, `1.0.13-r71`, `latest` (1/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/1.0.13-debian-8-r71/1/Dockerfile)
-* [`1-debian-9`, `0.0.0-debian-9-r0` (1/debian-9/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/0.0.0-debian-9-r0/1/debian-9/Dockerfile)
+* [`1-debian-8`, `1.0.13-debian-8-r72` (1/debian-8/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/1.0.13-debian-8-r72/1/debian-8/Dockerfile)
+* [`1-debian-9`, `0.0.0-debian-9-r0`, `1`, `0.0.0`, `0.0.0-r0`, `latest` (1/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/0.0.0-debian-9-r0/1/Dockerfile)
 
 Subscribe to project updates by watching the [bitnami/canary-binary GitHub repo](https://github.com/bitnami/bitnami-docker-canary-binary).
 
