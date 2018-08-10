@@ -13,15 +13,12 @@ $ docker-compose up
 
 # Supported tags and respective `Dockerfile` links
 
-* [`1-debian-8`, `1.0.13-debian-8-r79` (1/debian-8/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/1.0.13-debian-8-r79/1/debian-8/Dockerfile)
-* [`1-debian-9`, `0.0.0-debian-9-r0`, `1`, `0.0.0`, `0.0.0-r0`, `latest` (1/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/0.0.0-debian-9-r0/1/Dockerfile)
+> NOTE: Debian 8 images have been deprecated in favor of Debian 9 images. Bitnami will not longer publish new Docker images based on Debian 8.
 
-Subscribe to project updates by watching the [bitnami/canary-binary GitHub repo](https://github.com/bitnami/bitnami-docker-canary-binary).
+Learn more about the Bitnami tagging policy and the difference between rolling tags and immutable tags [in our documentation page](https://docs.bitnami.com/containers/how-to/understand-rolling-tags-containers/).
 
-# Supported tags and respective `Dockerfile` links
 
-* [`1-debian-8`, `1.0.13-debian-8-r79` (1/debian-8/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/1.0.13-debian-8-r79/1/debian-8/Dockerfile)
-* [`1-debian-9`, `0.0.0-debian-9-r0`, `1`, `0.0.0`, `0.0.0-r0`, `latest` (1/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/0.0.0-debian-9-r0/1/Dockerfile)
+* [`1-debian-9`, `1.0.14-debian-9-r0`, `1`, `1.0.14`, `1.0.14-r0`, `latest` (1/Dockerfile)](https://github.com/bitnami/bitnami-docker-canary-binary/blob/1.0.14-debian-9-r0/1/Dockerfile)
 
 Subscribe to project updates by watching the [bitnami/canary-binary GitHub repo](https://github.com/bitnami/bitnami-docker-canary-binary).
 
