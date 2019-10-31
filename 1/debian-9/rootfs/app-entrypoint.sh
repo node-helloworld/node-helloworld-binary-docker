@@ -6,8 +6,8 @@
 print_welcome_page
 
 if [[ "$1" == "nami" && "$2" == "start" ]] || [[ "$1" == "/init.sh" ]]; then
-  nami_initialize canary-binary
-  info "Starting canary-binary... "
+    nami_initialize canary-binary
+    info "Starting canary-binary... "
 fi
 
 exec tini -- "$@"
