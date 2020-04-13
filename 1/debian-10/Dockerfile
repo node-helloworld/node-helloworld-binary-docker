@@ -17,7 +17,7 @@ RUN apt-get update && apt-get upgrade -y && \
 
 COPY rootfs /
 ENV BITNAMI_APP_NAME="canary-binary" \
-    BITNAMI_IMAGE_VERSION="1.1.1-debian-10-r71"
+    BITNAMI_IMAGE_VERSION="1.1.1-debian-10-r72"
 
 EXPOSE 8080
 
