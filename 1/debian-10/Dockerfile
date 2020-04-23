@@ -9,7 +9,7 @@ RUN install_packages ca-certificates curl dirmngr ghostscript gnupg imagemagick 
 RUN /build/bitnami-user.sh
 RUN /build/install-nami.sh
 RUN bitnami-pkg install tini-0.19.0-0 --checksum 9a8ae20be31a518f042fcec359f2cf35bfdb4e2a56f2fa8ff9ef2ecaf45da80c
-RUN bitnami-pkg install node-12.16.2-1 --checksum ccecbb342f4ea034f55e6d928d276da8ff4ab630c691a6fa02314e7cb14bf4de
+RUN bitnami-pkg install node-12.16.2-2 --checksum f096e782cf200d2e8e698c00fd1eb4355a701a56ea0e704e8689a70289d6bd4f
 RUN bitnami-pkg install gosu-1.12.0-0 --checksum 582d501eeb6b338a24f417fededbf14295903d6be55c52d66c52e616c81bcd8c
 RUN bitnami-pkg unpack canary-binary-1.1.1-0 --checksum 93a0bd84a8b8b3652d06b4dd4e7179844b7fd25358c01398e94d2069222540d2
 RUN apt-get update && apt-get upgrade -y && \
@@ -17,7 +17,7 @@ RUN apt-get update && apt-get upgrade -y && \
 
 COPY rootfs /
 ENV BITNAMI_APP_NAME="canary-binary" \
-    BITNAMI_IMAGE_VERSION="1.1.1-debian-10-r81"
+    BITNAMI_IMAGE_VERSION="1.1.1-debian-10-r82"
 
 EXPOSE 8080
 
