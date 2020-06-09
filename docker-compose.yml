@@ -1,6 +1,6 @@
 version: '2'
 services:
   canary-binary:
-    image: 'node-helloworld/node-helloworld-binary:1-debian-10'
+    image: 'node-helloworld/canary-binary:1-debian-10'
     ports:
       - '80:8080'
