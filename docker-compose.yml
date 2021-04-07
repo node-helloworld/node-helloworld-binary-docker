@@ -1,6 +1,6 @@
 version: '2'
 services:
   canary-binary:
-    image: 'node-helloworld/canary-binary:1-debian-10'
+    image: docker.io/bitnami/canary-binary:1
     ports:
       - '80:8080'
