@@ -15,7 +15,7 @@ RUN bitnami-pkg unpack canary-binary-1.1.3-0 --checksum 787cf571fa2e88928ccd6ea5
 
 COPY rootfs /
 ENV BITNAMI_APP_NAME="canary-binary" \
-    BITNAMI_IMAGE_VERSION="1.1.3-debian-10-r343" \
+    BITNAMI_IMAGE_VERSION="1.1.3-debian-10-r344" \
     OS_ARCH="amd64" \
     OS_FLAVOUR="debian-10" \
     OS_NAME="linux"
